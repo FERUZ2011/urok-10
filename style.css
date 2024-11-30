@@ -1,0 +1,25 @@
+body{
+background-color: black;
+}
+.scrimer > img{
+width: 100vw;
+height: 100vh;
+position: absolute;
+left: 0;
+top: 0;
+display: none;
+}
+.trigger{
+width: 200px;
+height: 200px;
+background-color: white;
+position: absolute;
+top: 300px;
+left: 300px;
+}
+.scrimer:hover > img{
+display: block;
+
+
+
+}
